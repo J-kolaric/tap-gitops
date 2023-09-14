@@ -1,0 +1,7 @@
+---
+git:
+  url: https://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@github.com/J-kolaric/tap-gitops.git
+  ref: origin/main
+  sub_path: clusters/tap-16/cluster-config
+tap_package_repository:
+  oci_repository: harbor.jkolaric.eu/tap-library/tap-package

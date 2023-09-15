@@ -1,3 +1,6 @@
 tap_install:
   package_repository:
     oci_repository: harbor.jkolaric.eu/tap-library/tap-package
+  version:
+    package_repo_bundle_tag: "1.6.3"
+    package_version: "1.6.3"
